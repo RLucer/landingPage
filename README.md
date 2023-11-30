@@ -4,11 +4,14 @@
 
 ## 1. Desarrollo
 
-Web responsiva creada con los siguientes tecnologias
+Web responsiva creada con los siguientes tecnologías
 
--   HMTL5
+-  HMTL5
 - ✨CSS3✨
+-  Boostrap 
 
+
+![Prototipo](./img/proto.png)
 
 
 ## 2. Demo
